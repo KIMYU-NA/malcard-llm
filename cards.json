@@ -1,0 +1,322 @@
+[
+  {
+    "id": "life_01",
+    "type": "생활문장",
+    "korean": "어디서 내려요?",
+    "russian": "Где выходить?",
+    "prompt_question": "버스나 지하철에서 자주 쓰는 말이에요. 따라 말해보세요!",
+    "phoneme_focus": "ㄹ 받침"
+  },
+  {
+    "id": "life_02",
+    "type": "생활문장",
+    "korean": "얼마예요?",
+    "russian": "Сколько стоит?",
+    "prompt_question": "마트나 시장에서 꼭 필요한 표현이에요. 따라 말해보세요!",
+    "phoneme_focus": "ㄹ 받침"
+  },
+  {
+    "id": "life_03",
+    "type": "생활문장",
+    "korean": "이거 주세요.",
+    "russian": "Дайте мне это, пожалуйста.",
+    "prompt_question": "가게에서 물건을 살 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅈ 파열음"
+  },
+  {
+    "id": "life_04",
+    "type": "생활문장",
+    "korean": "버스 어디서 타요?",
+    "russian": "Где сесть на автобус?",
+    "prompt_question": "길을 물어볼 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅂ/ㅃ 쌍자음"
+  },
+  {
+    "id": "life_05",
+    "type": "생활문장",
+    "korean": "지하철 몇 호선이에요?",
+    "russian": "Какая это линия метро?",
+    "prompt_question": "지하철을 탈 때 필요한 표현이에요. 따라 말해보세요!",
+    "phoneme_focus": "ㄹ 받침, 연음"
+  },
+  {
+    "id": "life_06",
+    "type": "생활문장",
+    "korean": "화장실이 어디예요?",
+    "russian": "Где туалет?",
+    "prompt_question": "꼭 알아야 하는 표현이에요. 따라 말해보세요!",
+    "phoneme_focus": "ㅎ 약화"
+  },
+  {
+    "id": "life_07",
+    "type": "생활문장",
+    "korean": "영수증 주세요.",
+    "russian": "Дайте мне чек, пожалуйста.",
+    "prompt_question": "계산 후 영수증을 받을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅈ 파열음"
+  },
+  {
+    "id": "life_08",
+    "type": "생활문장",
+    "korean": "천천히 말해 주세요.",
+    "russian": "Говорите медленнее, пожалуйста.",
+    "prompt_question": "상대방이 너무 빠르게 말할 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅊ 파열음"
+  },
+  {
+    "id": "life_09",
+    "type": "생활문장",
+    "korean": "다시 한번 말해 주세요.",
+    "russian": "Повторите, пожалуйста, ещё раз.",
+    "prompt_question": "못 알아들었을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㄷ/ㄸ 쌍자음"
+  },
+  {
+    "id": "life_10",
+    "type": "생활문장",
+    "korean": "감사합니다.",
+    "russian": "Спасибо.",
+    "prompt_question": "가장 기본적인 감사 표현이에요. 따라 말해보세요!",
+    "phoneme_focus": "ㅂ 받침"
+  },
+  {
+    "id": "idiom_01",
+    "type": "관용구",
+    "korean": "손발이 맞아요.",
+    "russian": "Мы хорошо сработались. (букв. руки и ноги совпадают)",
+    "prompt_question": "같이 일하는 사람과 잘 맞을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "연음 처리"
+  },
+  {
+    "id": "idiom_02",
+    "type": "관용구",
+    "korean": "발이 넓어요.",
+    "russian": "У него/неё много знакомых. (букв. широкая нога)",
+    "prompt_question": "아는 사람이 많을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㄹ 받침"
+  },
+  {
+    "id": "idiom_03",
+    "type": "관용구",
+    "korean": "눈이 높아요.",
+    "russian": "У него/неё высокие стандарты. (букв. высокие глаза)",
+    "prompt_question": "기준이 높은 사람을 말할 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㄴ 받침"
+  },
+  {
+    "id": "idiom_04",
+    "type": "관용구",
+    "korean": "배가 아파요.",
+    "russian": "Я завидую. (букв. живот болит)",
+    "prompt_question": "남이 잘 될 때 샘이 날 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅂ/ㅃ 쌍자음"
+  },
+  {
+    "id": "idiom_05",
+    "type": "관용구",
+    "korean": "귀가 얇아요.",
+    "russian": "Он/она легко поддаётся влиянию. (букв. тонкие уши)",
+    "prompt_question": "남의 말을 잘 믿는 사람을 표현해요. 따라 말해보세요!",
+    "phoneme_focus": "ㄱ/ㄲ 쌍자음"
+  },
+  {
+    "id": "idiom_06",
+    "type": "관용구",
+    "korean": "입이 무거워요.",
+    "russian": "Он/она умеет хранить секреты. (букв. тяжёлый рот)",
+    "prompt_question": "비밀을 잘 지키는 사람에게 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅂ 받침"
+  },
+  {
+    "id": "idiom_07",
+    "type": "관용구",
+    "korean": "발 벗고 나서요.",
+    "russian": "Он/она активно берётся за дело. (букв. выходит без обуви)",
+    "prompt_question": "적극적으로 돕는 사람을 표현해요. 따라 말해보세요!",
+    "phoneme_focus": "ㄷ 받침"
+  },
+  {
+    "id": "idiom_08",
+    "type": "관용구",
+    "korean": "눈 깜짝할 사이예요.",
+    "russian": "В мгновение ока. (букв. за один миг моргания)",
+    "prompt_question": "아주 짧은 시간을 표현할 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㄱ/ㄲ 쌍자음"
+  },
+  {
+    "id": "idiom_09",
+    "type": "관용구",
+    "korean": "머리를 맞대요.",
+    "russian": "Мы вместе думаем над решением. (букв. прикладываем головы)",
+    "prompt_question": "함께 문제를 해결할 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㄹ 받침, 연음"
+  },
+  {
+    "id": "idiom_10",
+    "type": "관용구",
+    "korean": "시간 가는 줄 몰랐어요.",
+    "russian": "Я не заметил(а), как прошло время.",
+    "prompt_question": "너무 재미있어서 시간을 잊었을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㄹ 받침, 억양"
+  },
+  {
+    "id": "situation_01",
+    "type": "상황형회화",
+    "korean": "병원 접수 어떻게 해요?",
+    "russian": "Как записаться на приём в больницу?",
+    "prompt_question": "병원에 처음 갔을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "의문문 억양 상승"
+  },
+  {
+    "id": "situation_02",
+    "type": "상황형회화",
+    "korean": "이 약은 언제 먹어요?",
+    "russian": "Когда принимать это лекарство?",
+    "prompt_question": "약국에서 약을 받을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅇ 받침, 연음"
+  },
+  {
+    "id": "situation_03",
+    "type": "상황형회화",
+    "korean": "계산은 카드로 할게요.",
+    "russian": "Я буду платить картой.",
+    "prompt_question": "마트 계산대에서 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㄷ/ㄸ 쌍자음"
+  },
+  {
+    "id": "situation_04",
+    "type": "상황형회화",
+    "korean": "봉투 하나 주세요.",
+    "russian": "Дайте мне один пакет, пожалуйста.",
+    "prompt_question": "마트에서 비닐봉투 받을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅂ/ㅃ 쌍자음"
+  },
+  {
+    "id": "situation_05",
+    "type": "상황형회화",
+    "korean": "환승이 어떻게 돼요?",
+    "russian": "Как делается пересадка?",
+    "prompt_question": "대중교통 환승할 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅎ 약화, 연음"
+  },
+  {
+    "id": "situation_06",
+    "type": "상황형회화",
+    "korean": "출구가 어디예요?",
+    "russian": "Где выход?",
+    "prompt_question": "지하철역에서 출구를 찾을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㄱ 받침"
+  },
+  {
+    "id": "situation_07",
+    "type": "상황형회화",
+    "korean": "자리 있어요?",
+    "russian": "Есть свободное место?",
+    "prompt_question": "카페나 식당에서 자리를 찾을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅈ 파열음"
+  },
+  {
+    "id": "situation_08",
+    "type": "상황형회화",
+    "korean": "포장해 주세요.",
+    "russian": "Упакуйте, пожалуйста.",
+    "prompt_question": "음식을 테이크아웃할 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅈ 파열음"
+  },
+  {
+    "id": "situation_09",
+    "type": "상황형회화",
+    "korean": "주문 받으세요?",
+    "russian": "Вы принимаете заказ?",
+    "prompt_question": "식당에서 직원을 부를 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "ㅈ 파열음, 의문문 억양"
+  },
+  {
+    "id": "situation_10",
+    "type": "상황형회화",
+    "korean": "이 근처에 편의점 있어요?",
+    "russian": "Есть ли рядом магазин?",
+    "prompt_question": "길에서 편의점을 찾을 때 써요. 따라 말해보세요!",
+    "phoneme_focus": "연음 처리, 의문문 억양"
+  },
+  {
+    "id": "word_01",
+    "type": "기초단어",
+    "korean": "버스",
+    "russian": "автобус",
+    "prompt_question": "이 단어를 큰 소리로 말해보세요!",
+    "phoneme_focus": "ㅂ/ㅃ 쌍자음"
+  },
+  {
+    "id": "word_02",
+    "type": "기초단어",
+    "korean": "병원",
+    "russian": "больница",
+    "prompt_question": "이 단어를 큰 소리로 말해보세요!",
+    "phoneme_focus": "ㅂ/ㅃ 쌍자음"
+  },
+  {
+    "id": "word_03",
+    "type": "기초단어",
+    "korean": "지하철",
+    "russian": "метро",
+    "prompt_question": "이 단어를 큰 소리로 말해보세요!",
+    "phoneme_focus": "ㄹ 받침"
+  },
+  {
+    "id": "word_04",
+    "type": "기초단어",
+    "korean": "출구",
+    "russian": "выход",
+    "prompt_question": "이 단어를 큰 소리로 말해보세요!",
+    "phoneme_focus": "ㄱ 받침"
+  },
+  {
+    "id": "word_05",
+    "type": "기초단어",
+    "korean": "감사합니다",
+    "russian": "спасибо",
+    "prompt_question": "이 단어를 큰 소리로 말해보세요!",
+    "phoneme_focus": "ㅂ 받침"
+  },
+  {
+    "id": "word_06",
+    "type": "기초단어",
+    "korean": "괜찮아요",
+    "russian": "всё хорошо / нормально",
+    "prompt_question": "이 단어를 큰 소리로 말해보세요!",
+    "phoneme_focus": "ㅎ 약화, ㅓ/ㅗ 모음"
+  },
+  {
+    "id": "word_07",
+    "type": "기초단어",
+    "korean": "없어요",
+    "russian": "нет / не имеется",
+    "prompt_question": "이 단어를 큰 소리로 말해보세요!",
+    "phoneme_focus": "ㅂ 받침 연음"
+  },
+  {
+    "id": "word_08",
+    "type": "기초단어",
+    "korean": "주세요",
+    "russian": "дайте, пожалуйста",
+    "prompt_question": "이 단어를 큰 소리로 말해보세요!",
+    "phoneme_focus": "ㅈ 파열음"
+  },
+  {
+    "id": "word_09",
+    "type": "기초단어",
+    "korean": "편의점",
+    "russian": "магазин (круглосуточный)",
+    "prompt_question": "이 단어를 큰 소리로 말해보세요!",
+    "phoneme_focus": "연음 처리"
+  },
+  {
+    "id": "word_10",
+    "type": "기초단어",
+    "korean": "약국",
+    "russian": "аптека",
+    "prompt_question": "이 단어를 큰 소리로 말해보세요!",
+    "phoneme_focus": "ㄱ/ㄲ 쌍자음"
+  }
+]
